@@ -17,7 +17,7 @@ if you are on Linux open terminal and type:
 3.Create Tabele
 
 Then type:
-sqlite3>```  CREATE TABLE USERS(
+sqlite3>```  CREATE TABLE USERS( 
    ID INT PRIMARY KEY     NOT NULL,
    NAME           TEXT    NOT NULL,
    USERNAME       TEXT     NOT NULL,
