@@ -30,10 +30,10 @@ session_start();
            header('Location: index.php');    
         }else{
           
-          echo "pogrešna lozinka";
+          echo "Wrong Password";
         }
       }else{
-       echo "Korisnik ne postoji";
+       echo "User not exist, please register to continue!";
       }
    //echo "Operation done successfully\n";
    $db->close();
