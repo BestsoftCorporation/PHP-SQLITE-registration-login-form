@@ -8,7 +8,7 @@ sudo apt-get install php5-sqlite3
 ```
 On arch:
  ```
- sudo apt-get install php-sqlite3
+ sudo pacman -S php5-sqlite3
  ```
 
 If you are on Mac or Windows just download for official site: https://www.sqlite.org/download.html
