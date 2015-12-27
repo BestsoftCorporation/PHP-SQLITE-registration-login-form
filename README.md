@@ -13,8 +13,10 @@ On arch:
 
 If you are on Mac or Windows just download for official site: https://www.sqlite.org/download.html
 
-2. Create database
-if you are on Linux open terminal and type:
+2. Create database,
+ 
+
+if you are on Linux open terminal,(if you are on Windows open command prompt and drag sqlite3.exe on it) and type:
  
 ```
 sqlite3 database.db
