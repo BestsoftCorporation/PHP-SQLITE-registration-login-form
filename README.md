@@ -11,7 +11,7 @@ On arch:
  sudo pacman -S php5-sqlite3
  ```
 
-If you are on Mac or Windows just download for official site: https://www.sqlite.org/download.html
+If you are on Mac or Windows just download from official site: https://www.sqlite.org/download.html
 
 2. Create database,
  
